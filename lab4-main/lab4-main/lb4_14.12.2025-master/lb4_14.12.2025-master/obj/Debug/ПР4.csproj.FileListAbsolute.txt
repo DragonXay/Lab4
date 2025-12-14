@@ -1,0 +1,10 @@
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\bin\Debug\ПР4.exe.config
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\bin\Debug\ПР4.exe
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\bin\Debug\ПР4.pdb
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\obj\Debug\ПР4.csproj.AssemblyReference.cache
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\obj\Debug\ПР4.Form1.resources
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\obj\Debug\ПР4.Properties.Resources.resources
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\obj\Debug\ПР4.csproj.GenerateResource.cache
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\obj\Debug\ПР4.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\obj\Debug\ПР4.exe
+C:\Users\Intel\Downloads\lb4_14.12.2025-master\lb4_14.12.2025-master\obj\Debug\ПР4.pdb
